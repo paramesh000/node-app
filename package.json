@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/paramesh000/node-app/issues"
   },
-  "homepage": "https://github.com/paramesh000/node-app#readme"
+  "homepage": "https://github.com/paramesh000/node-app#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
